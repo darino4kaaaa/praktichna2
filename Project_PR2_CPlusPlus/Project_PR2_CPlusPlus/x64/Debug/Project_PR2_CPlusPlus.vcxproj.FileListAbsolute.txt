@@ -1,0 +1,8 @@
+C:\Users\maxim\source\repos\Project_PR2_CPlusPlus\Project_PR2_CPlusPlus\x64\Debug\Project_PR2_CPlusPlus.vcxproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\Project_PR2_CPlusPlus\Project_PR2_CPlusPlus\x64\Debug\Project_PR2_CPlusPlus.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\maxim\source\repos\Project_PR2_CPlusPlus\Project_PR2_CPlusPlus\x64\Debug\ProjectPR2CPlusPlus.MyForm.resources
+C:\Users\maxim\source\repos\Project_PR2_CPlusPlus\Project_PR2_CPlusPlus\x64\Debug\Project_PR2_CPlusPlus.vcxproj.GenerateResource.cache
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR2_CPlusPlus\Project_PR2_CPlusPlus\x64\Debug\Project_PR2_CPlusPlus.vcxproj.AssemblyReference.cache
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR2_CPlusPlus\Project_PR2_CPlusPlus\x64\Debug\Project_PR2_CPlusPlus.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR2_CPlusPlus\Project_PR2_CPlusPlus\x64\Debug\ProjectPR2CPlusPlus.MyForm.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\Project_PR2_CPlusPlus\Project_PR2_CPlusPlus\x64\Debug\Project_PR2_CPlusPlus.vcxproj.GenerateResource.cache
